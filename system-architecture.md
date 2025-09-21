@@ -13,19 +13,19 @@ This document carries System Architecture for gramSathi Application. gramSathi i
 
   ## Context Diagram:
 
-                            Admins
-                              |
-                              |
-                              V
-Artisan/Farmers ---->  [GramSathi App] <---- Merchants
-                              |
-                              |
-                              V
-                      [GramSathi Backend]
-                              |
-                              |
-                              V
-                           Database
+                            Admins  
+                              |  
+                              |  
+                              V  
+Artisan/Farmers ---->  [GramSathi App] <---- Merchants  
+                              |  
+                              |  
+                              V  
+                      [GramSathi Backend]  
+                              |  
+                              |  
+                              V  
+                           Database  
 
 # 3. Architecture Overview
 
