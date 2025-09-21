@@ -5,27 +5,19 @@ This document carries System Architecture for gramSathi Application. gramSathi i
 [Vision and Requirements](https://github.com/Parveen539/gramSathiArchitecture/blob/main/vision-and-requirements.md)
 
 # 2. System Context
-## Actors:
+## Context Diagram:
 - Artisan
 - Farmers
 - Merchant
 - Admins
 
-  ## Context Diagram:
-
-                            Admins  
-                              |  
-                              |  
-                              V  
-Artisan/Farmers ---->  [GramSathi App] <---- Merchants  
-                              |  
-                              |  
-                              V  
-                      [GramSathi Backend]  
-                              |  
-                              |  
-                              V  
-                           Database  
+Artisans --> GramSathi App  
+Farmers --> GramSathi App  
+Merchants --> GramSathi App  
+Admins --> GramSathi App  
+GramSathi App --> GramSathi Backend  
+GramSathi App --> Weather API  
+GramSathi Backend --> Database  
 
 # 3. Architecture Overview
 
