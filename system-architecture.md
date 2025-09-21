@@ -1,4 +1,8 @@
 # 1. Introduction
+This document carries System Architecture for gramSathi Application. gramSathi is applcation for making life easier for people of villages. This application connect Farmers and Artisans in village to connect with merchants for selling their produce. Application reduce the involvement of middlemen hence empower artisans, farmers and mercants to get fair price and fresh produce.
+
+## Links to :
+[Vision and Requirements](https://github.com/Parveen539/gramSathiArchitecture/blob/main/vision-and-requirements.md)
 
 # 2. System Context
 
