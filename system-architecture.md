@@ -19,7 +19,15 @@ GramSathi App --> Weather API
 GramSathi Backend --> Database  
 
 # 3. Architecture Overview
-
+## Architecture style:
+- modular monolith
+  
+## Technology stack:
+### Frontend: Next.js
+### Backend : Node.js
+### Database : MySql
+### Auth : JWT
+### Hosting: Vercel
 # 4. Module/ Component View
 
 # 5. Data Model
