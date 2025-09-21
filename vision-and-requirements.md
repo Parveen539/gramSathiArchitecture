@@ -25,26 +25,41 @@ Application makes it possible for Artisans and Farmers to connect with Merchant 
 ## Out-of-Scope
 * Payment gateway (May be added later)
 * Logistics Integration (May be added later)
-* 
+  
 # Functional Requirements
+High-level features grouped by role.
 
 ## For Farmers:
+* Register & manage profile
+* Add/edit products with details & price
+* Vie and Accept/Reject orders
 
 ## For Buyers:
+* Register & manage profile
+* Browse/search products
+* Place orders & view order history
 
 ## For Admin
+* Manage users & products
+* Monitor Transactions
 
 # Non-Functional Requirements
+These section define system qualities, not features.
 
 ## Performance:
+Support 1,000 concurrent users in MVP.
 
 ## Availabilty:
+99% uptime target in MVP.
 
 ## Security:
+Basic JWT-based authentication.
 
 ## Usability:
+Mobile-first design.
 
 ## Scalabilty:
+Cloud deployement with possibility of horizontal scaling.
 
 # Assumptions & Constraints
 * Farmers will have low-end Android smartphones.
