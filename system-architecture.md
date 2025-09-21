@@ -23,11 +23,12 @@ GramSathi Backend --> Database
 - modular monolith
   
 ## Technology stack:
-### Frontend: Next.js
-### Backend : Node.js
-### Database : MySql
-### Auth : JWT
-### Hosting: Vercel
+**Frontend:** Next.js
+**Backend :** Node.js
+**Database :** MySql  
+**Auth :** JWT
+**Hosting:** Vercel
+
 # 4. Module/ Component View
 
 # 5. Data Model
