@@ -5,7 +5,6 @@ This document carries System Architecture for gramSathi Application. gramSathi i
 [Vision and Requirements](https://github.com/Parveen539/gramSathiArchitecture/blob/main/vision-and-requirements.md)
 
 # 2. System Context
-## Context Diagram:
 - Artisan
 - Farmers
 - Merchant
