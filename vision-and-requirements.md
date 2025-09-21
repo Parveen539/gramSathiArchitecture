@@ -29,10 +29,15 @@ Application makes it possible for Artisans and Farmers to connect with Merchant 
 # Functional Requirements
 High-level features grouped by role.
 
+## For Artisans:
+* Register & manage profile
+* Add/edit products with details & price
+* View and Accept/Reject orders
+  
 ## For Farmers:
 * Register & manage profile
 * Add/edit products with details & price
-* Vie and Accept/Reject orders
+* View and Accept/Reject orders
 
 ## For Buyers:
 * Register & manage profile
