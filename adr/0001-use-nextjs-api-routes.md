@@ -1,4 +1,4 @@
-# ADR-0001 : Use Next.js API Routes
+# ADR-0001 : Use Next.js for API Routes
 
 ## Status  
 Accepted  
