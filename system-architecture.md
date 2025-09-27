@@ -53,9 +53,9 @@ GramSathi Backend --> Database
 **DevOps:** CI/CD pipeline (GitHub Actions -> deploy to vercel / AWS)  
 
 # 8. Architecture Decisions
-Please Refer to following:
+Please Refer to following:  
 [Use nextjs api routes](https://github.com/Parveen539/gramSathiArchitecture/blob/main/adr/0001-use-nextjs-api-routes.md)  
-[Use MySQL for Primary Database](https://github.com/Parveen539/gramSathiArchitecture/blob/main/adr/0002-use-mysql.md)
+[Use MySQL for Primary Database](https://github.com/Parveen539/gramSathiArchitecture/blob/main/adr/0002-use-mysql.md)  
 
 # 9. Risks & Mitigations
 **Risk:** Poor internet in rural areas -> **Mitigation:** Optimize for mobile caching  
