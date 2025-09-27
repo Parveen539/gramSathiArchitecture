@@ -54,7 +54,7 @@ GramSathi Backend --> Database
 
 # 8. Architecture Decisions
 Please Refer to following:  
-[Use nextjs api routes](https://github.com/Parveen539/gramSathiArchitecture/blob/main/adr/0001-use-nextjs-api-routes.md)  
+[Use next.js for api routes](https://github.com/Parveen539/gramSathiArchitecture/blob/main/adr/0001-use-nextjs-api-routes.md)  
 [Use MySQL for Primary Database](https://github.com/Parveen539/gramSathiArchitecture/blob/main/adr/0002-use-mysql.md)  
 
 # 9. Risks & Mitigations
