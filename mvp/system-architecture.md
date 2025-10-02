@@ -10,13 +10,6 @@ This document carries System Architecture for gramSathi Application. gramSathi i
 - Admins
 
 ![Context Diagram](https://github.com/Parveen539/gramSathiArchitecture/blob/main/mvp/images/GramSathiContextDiagram.PNG)
-Artisans --> GramSathi App  
-Farmers --> GramSathi App  
-Merchants --> GramSathi App  
-Admins --> GramSathi App  
-GramSathi App --> GramSathi Backend  
-GramSathi App --> Weather API  
-GramSathi Backend --> Database  
 
 # 3. Architecture Overview
 ## Architecture style:
