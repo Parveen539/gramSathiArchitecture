@@ -9,6 +9,7 @@ This document carries System Architecture for gramSathi Application. gramSathi i
 - Merchant
 - Admins
 
+![Context Diagram](https://github.com/Parveen539/gramSathiArchitecture/blob/main/mvp/images/GramSathiContextDiagram.PNG)
 Artisans --> GramSathi App  
 Farmers --> GramSathi App  
 Merchants --> GramSathi App  
